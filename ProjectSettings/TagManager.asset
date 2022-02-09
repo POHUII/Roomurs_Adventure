@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NPC
+  - Prop
+  - UI
+  - Sword
+  - Enemy
+  - bloodBar
+  - Skeleton
+  - Background
+  - Barrel
+  - Slime
+  - Coin
+  - Bound
+  - Archer
+  - Bow
+  - DialogButton
+  - HealthPotion
+  - Billboard
+  - arrow
+  - BossSkeleton
+  - Key
+  - Music
+  - target
+  - move
+  - Spider
+  - Bat
+  - Right
+  - Left
+  - Door
+  - Syris
+  - Dummy
+  - LoadManager
+  - Ladder
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ground
+  - Water
+  - UI
+  - Prop
+  - NextLevel
+  - Enemy
+  - Background
+  - Player
+  - Arrow
+  - Rail
+  - Platform
+  - Bat
+  - PlayerRolling
+  - Ladder
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1364011059
+    locked: 0
+  - name: Backform
+    uniqueID: 2076423499
+    locked: 0
+  - name: Props
+    uniqueID: 1670813371
+    locked: 0
+  - name: Character
+    uniqueID: 443834829
+    locked: 0
